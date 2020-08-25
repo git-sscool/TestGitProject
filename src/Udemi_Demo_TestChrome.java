@@ -34,5 +34,6 @@ public class Udemi_Demo_TestChrome {
 		//Driver.close(); // closes the current browser
 		
 		Driver.quit(); // closes all the browsers open by selenium script
+		System.out.println("change in new developement branch");
 	}
 }
